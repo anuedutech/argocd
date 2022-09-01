@@ -18,7 +18,7 @@ spec:
         app: web1
     spec:
       containers:
-      - image: anuudocker/website:1
+      - image: vikas1818/pyimage:template
         name: website
         resources: {}
 status: {}
